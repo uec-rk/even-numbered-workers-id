@@ -44,7 +44,7 @@ The steps of the analysis are as follows:
 1. Make a model
 
     The task is a **<font color="orange">regression task</font>**.  
-    You will make a model that predict _Target_ variable in **<font color="orange">y_train.csv</font>** using **<font color=orange>X_train.csv</font>**.  
+    You will make a model that predict _Target_ variable in **<font color="orange">y_train.csv</font>** using **<font color="orange">X_train.csv</font>**.  
     Variables in the X_train.csv are _Cat1_, _Cat2_, _Num1_, ..., _Num19_.  
     Note that **<font color="orange">_Cat1_ and _Cat2_ are categorical variables</font>**.
 
