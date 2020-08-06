@@ -24,7 +24,7 @@ We require:
 
 1. Install libraries
 
-    `pip install git+https://github.com/uec-rk/malss`
+    `(venv)> pip install git+https://github.com/uec-rk/malss`
 
 1. Download training data and test data
 
